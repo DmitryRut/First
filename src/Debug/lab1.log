@@ -1,0 +1,5 @@
+﻿  fun.cpp
+C:\Users\User\OneDrive\Рабочий стол\Проектирование\mod-lab01-fa-cpp\src\fun.cpp(2,10): fatal error C1083: Не удается открыть файл включение: fun.h: No such file or directory,
+  main.cpp
+C:\Users\User\OneDrive\Рабочий стол\Проектирование\mod-lab01-fa-cpp\src\main.cpp(2,10): fatal error C1083: Не удается открыть файл включение: fun.h: No such file or directory,
+  Создание кода...
